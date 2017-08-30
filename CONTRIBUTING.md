@@ -1,7 +1,7 @@
 # On-Belay App
 This is the repository for the On-Belay App
 
-##Contents 
+## Contents 
 - [Getting Started](#getting-started)
   - [Brush up on Development Tools](#brush-up-on-development-tools)
     - [Git and basic Command Line](#git-and-basic-command-line)
