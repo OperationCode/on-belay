@@ -11,7 +11,7 @@ This is the repository for the On-Belay App
 
 If you're unfamiliar with any of the instructions, you can navigate the [rest of this guide](#technologies) to figure out the relevant technology and potential environment issues. <b>If an instruction begins with "Run ...", that means to type the text in place of ... within your CLI.</b>
 
-Lastly, if you run into any problems with the following instructions, please try to communicate with us on Slack. You can get an invite to our Slack channel by [requesting to join Operation Code](https://operationcode.org/join). Once in our Slack team, simply type: `/open #oc-projects` and then click enter.
+Lastly, if you run into any problems with the following instructions, please try to communicate with us on Slack. You can get an invite to our Slack channel by [requesting to join Operation Code](https://operationcode.org/join). Once in our Slack team, simply type: `/open #on-belay` and then click enter.
 
 #### Forking and Cloning this repository
 
