@@ -1,17 +1,17 @@
-User pops open app for first time, welcome screen flashes, and user is asked to register. Registration asks for email address and strong password. 
+User pops open app for first time, welcome screen flashes, and user is asked to register. Registration asks for email address and strong password.
 
 User gets the disclosure screen:
 •	This app does not replace medical advice from a physician or counselor, etc.
 •	Don’t start a workout program without speaking to your physician
 •	We are not selling your info to anyone, ever
-•	Disclosure of any medical/health related information is voluntary.  
+•	Disclosure of any medical/health related information is voluntary.
 •	If you wish to share you info for data collection, it will be anonymized (your name will be removed from the data and no one will be able to tell it’s your data) and you may opt out at any time. The default is “Do not share” – this may be version 3 or 4, if at all.
 
-User gets screen, “How to use this app” 
+User gets screen, “How to use this app”
 •	This app tracks your mood. We will send you push reminders at random times so you can track your mood. We will show you any patterns on your dashboard. If you have already disabled push notifications for this app, please enable them now.
 
 User gets set up screen with progress bar:
-•	We don’t want to wake you up! What are your typical waking hours?: 
+•	We don’t want to wake you up! What are your typical waking hours?:
 •	How often would you like to track your mood?:
 	o	3x day
 	o	2x day
@@ -31,13 +31,13 @@ User sees “What is your mood now?” screen
 •	Sad
 •	Angry
   ...Or whatever we decide
+	*This should be a quick interaction with the presets readily available in the screen without having to go into the app* (My suggestion <- Jchav)
 
 Takes them to dashboard. They see:
 •	their last entry
 •	“Track Mood Now”
 •	“Call a friend”
-•	history 
+•	history
 	o     Graph view
 	o     sort by: Yesterday, past 7 days, past 30 days, past 60 days, etc
 •	settings
-
