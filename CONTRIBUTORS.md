@@ -12,5 +12,8 @@
 
 [Kelly](https://github.com/ksmacleod99) is an Army National Guard vet with a  BS Psychology from Appalachian State University '13. Front-End Developer & learned (Python?) for this project. Docile when fed, but possibly rabid.
 
+[William](https://github.com/wimo7083) is an Air National Guard vet with a BS Chemical Engineering from University of Colorado at Boulder '17. Back-end Developer with experience in python and terrible web-apps. He's a big fan of blue things.
+
+
 <br> <br>
 # Special Thanks to ![OpCode Logo](/resources/small-blue-logo.png "OpCode logo") For bringing together this ragtag team of weirdos.
