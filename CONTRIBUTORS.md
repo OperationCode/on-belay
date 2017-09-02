@@ -8,6 +8,8 @@
 
 [Derek T](https://github.com/dteuny1022) aka DT or Tuna is from Kansas City MO and is new to Software Dev. Coming from the Customer Support side of IT, he enjoys playing sports with his boys and hanging out with his wife watching a good movie. When not coding for a cause on FreeCodeCamp he can be found with his head in a book or playing some video games.
 
+[Juan](https://github.com/juanchaves)  is currently a student at the University of Washington having recently gotten out from active service in the Army. He's passionate about Cybersecurity, coding, physics, philosophy, and sharks.
+
 [Kelly](https://github.com/ksmacleod99) is an Army National Guard vet with a  BS Psychology from Appalachian State University '13. Front-End Developer & learned (Python?) for this project. Docile when fed, but possibly rabid.
 
 <br> <br>
