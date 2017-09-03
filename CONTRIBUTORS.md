@@ -10,12 +10,13 @@
 
 [Derek T](https://github.com/dteuny1022) aka DT or Tuna is from Kansas City MO and is new to Software Dev. Coming from the Customer Support side of IT, he enjoys playing sports with his boys and hanging out with his wife watching a good movie. When not coding for a cause on FreeCodeCamp he can be found with his head in a book or playing some video games.
 
+[EJ](https://github.com/ehawkins730) is a Navy vet with a BS in Mathematics from the United States Naval Academy.  Not experienced with universal apps, more proficient in iOS and all things Apple.  Ready to dive into other languages!
+
 [Juan](https://github.com/juanchaves)  is currently a student at the University of Washington having recently gotten out from active service in the Army. He's passionate about Cybersecurity, coding, physics, philosophy, and sharks.
 
 [Kelly](https://github.com/ksmacleod99) is an Army National Guard vet with a  BS Psychology from Appalachian State University '13. Front-End Developer & learned (Python?) for this project. Docile when fed, but possibly rabid.
 
 [William](https://github.com/wimo7083) is an Air National Guard vet with a BS Chemical Engineering from University of Colorado at Boulder '17. Back-end Developer with experience in python and terrible web-apps. He's a big fan of blue things.
-
 
 <br> <br>
 # Special Thanks to ![OpCode Logo](/resources/small-blue-logo.png "OpCode logo") For bringing together this ragtag team of weirdos.
