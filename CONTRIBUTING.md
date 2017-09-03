@@ -44,4 +44,4 @@ Getting comfortable with the Bash Shell will be helpful for both Windows and Mac
 - For Windows - [Learn Windows Command Prompt](https://www.youtube.com/watch?v=MBBWVgE0ewk)
 
 ## Technologies
-Info about the stack will go here when we decide :).
+The front end of this project will use [Kivy](https://kivy.org/#home).
