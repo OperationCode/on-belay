@@ -4,6 +4,8 @@
 
 [Ashley](https://github.com/AshTemp) is a Cloud Security Engineer and a budding Pythonista. She has a BS in Cybersecurity from American Military University, and is the resident crazy cat lady. She is a lifelong learner and video game enthusiast.
 
+[Chad](https://github.com/chadg1980) is a lifelong learner in all things tech. Chad earned a BS in Computer Science from Oregon State University, and a Nanodegree from Udacity specializing in Android Development. Chad spent 8 years in the Army National Guard. Three years in the guard was spent in the security force for Homeland Response Force, FEMA region X. 
+
 [Davi R](https://github.com/KuriosCurious) is a .Net programmer and business analyst hidden in the caves of corporate America. He believes in solving business problems with uncomplicated, efficient processes and software. Davi has a passion for learning and is constantly questioning the status quo. His fervor to innovate is driven by a curious mind, supporting his online handle, KuriosCurious.
 
 [David](https://github.com/dmarchante) is a designer who likes to pretend to develop. He doesnt always know exactly what he is doing doing with this project, but he has stepped up and taken on a leadership role anyway.
@@ -19,4 +21,4 @@
 [William](https://github.com/wimo7083) is an Air National Guard vet with a BS Chemical Engineering from University of Colorado at Boulder '17. Back-end Developer with experience in python and terrible web-apps. He's a big fan of blue things.
 
 <br> <br>
-# Special Thanks to ![OpCode Logo](/resources/small-blue-logo.png "OpCode logo") For bringing together this ragtag team of weirdos.
+# Special Thanks to ![OpCode Logo](/resources/small-blue-logo.png "OpCode logo") for bringing together this ragtag team of weirdos.
