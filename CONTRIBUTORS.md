@@ -16,6 +16,6 @@
 
 [William](https://github.com/wimo7083) is an Air National Guard vet with a BS Chemical Engineering from University of Colorado at Boulder '17. Back-end Developer with experience in python and terrible web-apps. He's a big fan of blue things.
 
-
+[EJ](https://github.com/ehawkins730) is a Navy vet with a BS in Mathematics from the United States Naval Academy.  Not experienced with universal apps, more proficient in iOS and all things Apple.  Ready to dive into other languages!
 <br> <br>
 # Special Thanks to ![OpCode Logo](/resources/small-blue-logo.png "OpCode logo") For bringing together this ragtag team of weirdos.
