@@ -18,6 +18,8 @@
 
 [Kelly](https://github.com/ksmacleod99) is an Army National Guard vet with a  BS Psychology from Appalachian State University '13. Front-End Developer & learned (Python?) for this project. Docile when fed, but possibly rabid.
 
+[Taeten](https://github.com/TenzeT) is a student at Cal Poly Pomona pursuing a degree in Computer Science. He is a former Marine who is familiar with Java, interested in app development, augmented reality and snowboarding. 
+
 [William](https://github.com/wimo7083) is an Air National Guard vet with a BS Chemical Engineering from University of Colorado at Boulder '17. Back-end Developer with experience in python and terrible web-apps. He's a big fan of blue things.
 
 <br> <br>
