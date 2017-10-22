@@ -13,6 +13,9 @@ This app will track the interaction of exercise and/or meditation on PTSD sympto
 
 We're using version 3.6.2 (which is the latest version of Python). You can download it from https://www.python.org/downloads/release/python-362/
 
+#### Kivy - https://kivy.org/
+We're using Kivy for the app itself, instructions for download can be found at: https://kivy.org/docs/installation/installation.html
+
 #### Trello
 We're using Trello to track the project goals. https://trello.com/invite/onbelay1/209f7fb3a14b4619ae410dbc5ec56838
 
