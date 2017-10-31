@@ -29,7 +29,7 @@ Run `git remote -v` to check if both the repositories are listed.
 8. Now you may make changes, add and commit to the repository.
 
 #### Addressing An Issue
-Everytime you want to resolve an issue, you'll need to create a branch, code there, and then submit a pull request (PR) for review. Assuming you're already in the /operationcode_frontend directory...
+Everytime you want to resolve an issue, you'll need to create a branch, code there, and then submit a pull request (PR) for review. Assuming you're already in the /on-belay directory...
 1. Run `git checkout -b "Name-of-branch-relevant-to-issue"`
 
 ## Brush up on Development Tools
@@ -55,4 +55,4 @@ We're using Kivy for the app itself, instructions for download can be found at: 
 #### Trello
 We're using Trello to track the project goals. https://trello.com/invite/onbelay1/209f7fb3a14b4619ae410dbc5ec56838
 
-Find us on the [Operation Code](https://www.operationcode.org/join) Slack Team , channel #on-belay.
+Find us on the [Operation Code](https://www.operationcode.org/join) Slack Team , channels #on-belay, #on-belay-backend, #on-belay-design, and #on-belay-nui.
