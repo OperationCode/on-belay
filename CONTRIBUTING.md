@@ -29,7 +29,7 @@ Run `git remote -v` to check if both the repositories are listed.
 8. Now you may make changes, add and commit to the repository.
 
 #### Addressing An Issue
-Everytime you want to resolve an issue, you'll need to create a branch, code there, and then submit a pull request (PR) for review. Assuming you're already in the /operationcode_frontend directory...
+Everytime you want to resolve an issue, you'll need to create a branch, code there, and then submit a pull request (PR) for review. Assuming you're already in the /on-belay directory...
 1. Run `git checkout -b "Name-of-branch-relevant-to-issue"`
 
 ## Brush up on Development Tools
