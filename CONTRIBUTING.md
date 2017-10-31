@@ -55,4 +55,4 @@ We're using Kivy for the app itself, instructions for download can be found at: 
 #### Trello
 We're using Trello to track the project goals. https://trello.com/invite/onbelay1/209f7fb3a14b4619ae410dbc5ec56838
 
-Find us on the [Operation Code](https://www.operationcode.org/join) Slack Team , channel #on-belay.
+Find us on the [Operation Code](https://www.operationcode.org/join) Slack Team , channels #on-belay, #on-belay-backend, #on-belay-design, and #on-belay-nui.
