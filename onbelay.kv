@@ -8,20 +8,45 @@ Screen:
             size_hint: None, None
             size: 250,250
 
+    Label:
+        id: welcome
+        text: 'Welcome!'
+        font_size: 45
+        text_size: 400, 250
+
     BoxLayout:
         orientation: 'vertical'
 
-        # canvas.before:
-        #     Rectangle:
-        #         pos: (0,0)
-        #         size: (250,250)
-        #         source: 'images/OnBelay.png'
+        Button:
+            id: very happy
+            background_normal: 'images/Smiling.png'
+        Button:
+            id: happy
+            background_normal: 'images/SlightlySmiling.png'
+        Button:
+            id: neutral
+            background_normal: 'images/Neutral.png'
+        Button:
+            id: sad
+            background_normal: 'images/Sad.png'
+        Button:
+            id: very sad
+            background_normal: 'images/VerySad.png'
+        Button:
+            id: angry
+            background_normal: 'images/Angry.png'
+        Button:
+            id: very angry
+            background_normal: 'images/VeryAngry.png'
 
-        Label:
-            id: welcome
-            text: 'Welcome!'
-            font_size: 45
-
+    BoxLayout:
+        Button:
+            id: dashboard
+            text: 'Dashboard'
+            background_normal: 'images/RedButton.png'
+            border: (2, 2, 2, 2)
+            markup: True
+    
         BoxLayout:
             orientation: 'horizontal'
             text: 'How are you feeling today?'
