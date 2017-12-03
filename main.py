@@ -13,5 +13,7 @@ class OnBelay(App):
     pass
 
 if __name__ == '__main__':
-    Window.clearcolor = get_color_from_hex('#89A894')
+    Window.clearcolor = get_color_from_hex('#A4BAB7')
+    #TODO TAKE THIS OUT!!!! (sets permanent window size!)
+    Window.size = (320, 568)
     OnBelay().run()
