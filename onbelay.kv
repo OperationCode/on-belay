@@ -8,20 +8,14 @@ Screen:
             size_hint: None, None
             size: 250,250
 
-    BoxLayout:
+    GridLayout:
         orientation: 'vertical'
-
-        # canvas.before:
-        #     Rectangle:
-        #         pos: (0,0)
-        #         size: (250,250)
-        #         source: 'images/OnBelay.png'
-
+        
         Label:
             id: welcome
             text: 'Welcome!'
             font_size: 45
-            text_size: 400, 250
+            text_size: 275, 250
 
         BoxLayout:
             orientation: 'horizontal'
@@ -57,5 +51,6 @@ Screen:
                 id: dashboard
                 text: 'Dashboard'
                 background_normal: 'images/RedButton.png'
+                size_hint: (0.25, 0.25)
                 border: (2, 2, 2, 2)
                 markup: True
