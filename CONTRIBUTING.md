@@ -45,12 +45,13 @@ Getting comfortable with the Bash Shell will be helpful for both Windows and Mac
 
 ## Technologies
 
-#### Python - http://docs.python-guide.org/en/latest/
+#### Xamarin
 
-We're using version 3.6.2 (which is the latest version of Python). You can download it from https://www.python.org/downloads/release/python-362/
+We've switched from Python and Kivy to using Xamarin for the app. You can find more info about Xamarin here: 
+https://www.xamarin.com/
 
-#### Kivy - https://kivy.org/
-We're using Kivy for the app itself, instructions for download can be found at: https://kivy.org/docs/installation/installation.html
+#### Visual Studio - https://www.visualstudio.com/
+You'll want the full visual studio IDE for this project. More to come on this later.
 
 #### Trello
 We're using Trello to track the project goals. https://trello.com/invite/onbelay1/209f7fb3a14b4619ae410dbc5ec56838
