@@ -7,14 +7,9 @@ This app will track the interaction of exercise and/or meditation on PTSD sympto
 
 # Setup
 
-Install python dependencies
-
-Kivy: Python package for UI. Choose the appropriate platform from the link below, and follow instructions to install kivy.
-[Link to installation docs](https://kivy.org/docs/gettingstarted/installation.html)
+TBD
 
 # Running
-
-``` python main.py ```
 
 
 ### *Version 1* (current) is a mood tracker.
